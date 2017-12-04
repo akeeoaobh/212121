@@ -9,6 +9,4 @@ TechOrange轉載量子位（公眾號 ID：QbitAI）整理的[自學指南](http
 <br />
 [github readme的編輯方法](https://help.github.com/articles/basic-writing-and-formatting-syntax/)<br />
 
-僅限於本人私人用途 不授權!!! 不授權!!!!!
-
 
