@@ -1,7 +1,6 @@
 # Deep learning notes and practices
  <br />
-
-
+私人筆記
  <br />
 
  <br />
