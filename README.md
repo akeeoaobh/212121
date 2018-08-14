@@ -1,5 +1,5 @@
 # Deep learning notes and practices
-這是一個筆記檔案  <br />
+ <br />
 
 
  <br />
